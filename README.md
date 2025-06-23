@@ -33,8 +33,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="odoo" width="40" height="40">
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Odoo_logo.svg" alt="odoo" width="40" height="40" style="background: white; padding: 2px; border-radius: 4px;">
+</a>
 </p>
 <hr width="36%">
 <h3>My GitHub Stats</h3>
