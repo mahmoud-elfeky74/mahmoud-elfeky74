@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Odoo_logo.svg" alt="odoo" width="40" height="40" style="background: white; padding: 2px; border-radius: 4px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png" alt="odoo" width="40" height="40" style="background: white; padding: 2px; border-radius: 4px;">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
