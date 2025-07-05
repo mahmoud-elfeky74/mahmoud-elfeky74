@@ -55,7 +55,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/+2001552859833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"></a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://mailto:mahmoudelfeky068@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40"></a>
+   <a href="mailto:mahmoudelfeky068@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40"></a>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
 <hr>
