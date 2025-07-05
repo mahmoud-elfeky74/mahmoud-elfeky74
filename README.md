@@ -54,5 +54,8 @@
 <a href="https://www.linkedin.com/in/mahmoud-elfeky-47935730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/+2001552859833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+2001552859833" target="blank"><img align="center" src="&nbsp;&nbsp;&nbsp;
+  <a href="https://mailto:mahmoudelfeky068@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"></a>" height="30" width="40"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
 <hr>
